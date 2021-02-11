@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name":"Salahod-din Sambutuan",
+    "occupation":"ReactJS and Python Developer",
+    "description":"I code in programming languages like Python and Javascript(ReactJS)",
+    "image":"profilepic.jpg",
+    "bio":"I'm not totally useless. I can be used as a bad example.",
+    "contactmessage":"This form is a work in progress and it's not yet working. Email me instead at salahoddinsambutuan@gmail.com.",
+    "email": "salahoddinsambutuan@gmail.com",
+    "phone": "0953-4316-446",
+    "address":{
+      "street":"Cotabato",
+      "city":"Cotabato City",
+      "state":"Maguindanao",
+      "zip": "9600"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/salahoddin.sambutuan.92/",
+        "className":"fa fa-facebook"
+      },
+     
+      {
+        "name":"github",
+        "url":"https://github.com/salahoddin",
+        "className":"fa fa-github"
+      }
+     
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are the skills I have learned while attending college and some from youtube videos",
+    "education":[
+      {
+        "school":"STI College Cotabato",
+        "degree":"Bachelor of Science in Information Technology",
+        "graduated":"April 2019",
+        "description":"While studying at STI College Cotabato I learned networking, programming, database management, system analysisand website development."
+      },
+      {
+        "school":"Massive Open Online Course (University of Michigan)",
+        "degree":"Python for Everybody",
+        "graduated":"Oct 2020",
+        "description":"I learned about python data structures, python data visualization and an Introduction to creating machine learning models using python."
+      }
+    ],
+    "work":[
+      {
+        "company":"Github",
+        "title":"MERN ",
+        "years":"Nov 2020",
+        "description":"Create a project MERN web app."
+      },
+      {
+        "company":"CRMC",
+        "title":"IT Staff - Intern",
+        "years":"Dec 2019 - Apr 2022",
+        "description":"Networking, software installation, pc and printer troubleshooting."
+      }, 
+      {
+        "company":"Atyab Co. Ltd",
+        "title":"Cashier",
+        "years":"June 2012",
+        "description":"Cashier work, invertory, product orders etc."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"C#",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"50%"
+      },
+      {
+        "name":"MySql",
+        "level":"60%"
+      },
+      
+      {
+        "name":"MongoDB",
+        "level":"75%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Dhenshop Ecommerce",
+        "category":"Electronics Ecommerce",
+        "image":"dhenshop.png",
+        "url":"https://dhenshop.herokuapp.com/"
+      },
+      {
+        "title":"Portfolio",
+        "category":"My Porfolio",
+        "image":"portfo.png",
+        "url":""
+      }
+      
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"N/A",
+        "user":"N/A"
+      },
+      {
+        "text":"N/A",
+        "user":"N/A"
+      }
+    ]
+  }
+}
