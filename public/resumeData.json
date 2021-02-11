@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Salahod-din Sambutuan",
-    "occupation":"ReactJS and Python Developer",
+    "occupation":"Developer",
     "description":"I code in programming languages like Python and Javascript(ReactJS)",
     "image":"profilepic.jpg",
     "bio":"I'm not totally useless. I can be used as a bad example.",
@@ -111,7 +111,7 @@
         "title":"Portfolio",
         "category":"My Porfolio",
         "image":"portfo.png",
-        "url":""
+        "url":"https://dhenportfo.herokuapp.com/"
       }
       
     ]
