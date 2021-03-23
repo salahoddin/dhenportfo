@@ -38,7 +38,7 @@
         "school":"STI College Cotabato",
         "degree":"Bachelor of Science in Information Technology",
         "graduated":"April 2019",
-        "description":"While studying at STI College Cotabato I learned networking, programming, database management, system analysisand website development."
+        "description":"While studying at STI College Cotabato I learned networking, programming, database management, system analysis and website development."
       },
       {
         "school":"Massive Open Online Course (University of Michigan)",
@@ -112,6 +112,12 @@
         "category":"My Porfolio",
         "image":"portfo.png",
         "url":"https://dhenportfo.herokuapp.com/"
+      }, 
+      {
+        "title":"MERN Authentication with Password Reset Functionality",
+        "category":"Authentication",
+        "image":"mernauth.png",
+        "url":"https://mern-auth-01.herokuapp.com/"
       }
       
     ]
