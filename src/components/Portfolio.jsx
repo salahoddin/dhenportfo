@@ -23,7 +23,7 @@ const Portfolio = ({ data }) => {
 						{projects.map((p) => (
 							<div key={p.title} className='columns portfolio-item'>
 								<div className='item-wrap'>
-									<a href={p.url} title={p.title}>
+									<a href={p.url} title={p.title} target="_blank">
 										<img alt={p.title} src={`images/portfolio/${p.image}`} />
 										<div className='overlay'>
 											<div className='portfolio-item-meta'>
