@@ -3,10 +3,10 @@
     "name":"Salahod-din Sambutuan",
     "occupation":"Developer",
     "description":"I code in programming languages like Python and Javascript(ReactJS)",
-    "image":"profilepic.jpg",
+    "image":"profilepic.png",
     "bio":"I'm not totally useless. I can be used as a bad example.",
     "contactmessage":"This form is a work in progress and it's not yet working. Email me instead at salahoddinsambutuan@gmail.com.",
-    "email": "salahoddinsambutuan@gmail.com",
+    "email": "salahoddinsambutuan@protonmail.com",
     "phone": "0953-4316-446",
     "address":{
       "street":"Cotabato",
@@ -37,7 +37,7 @@
       {
         "school":"STI College Cotabato",
         "degree":"Bachelor of Science in Information Technology",
-        "graduated":"April 2019",
+        "graduated":"April 2020",
         "description":"While studying at STI College Cotabato I learned networking, programming, database management, system analysis and website development."
       },
       {
@@ -63,7 +63,7 @@
       {
         "company":"CRMC",
         "title":"IT Staff - Intern",
-        "years":"Dec 2019 - Apr 2020",
+        "years":"Dec 2020 - Apr 2021",
         "description":"Networking, software installation, pc and printer troubleshooting."
       }, 
       {
@@ -124,8 +124,13 @@
         "category":"Authentication",
         "image":"mernauth.png",
         "url":"https://mern-auth-01.herokuapp.com/"
+      },
+      {
+        "title":"React JS Playground",
+        "category":"React App",
+        "image":"rjsplayground.png",
+        "url":"https://dhen-reactjs-playground.herokuapp.com/"
       }
-      
     ]
   },
   "testimonials":{
