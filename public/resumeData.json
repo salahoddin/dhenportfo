@@ -43,16 +43,22 @@
       {
         "school":"Massive Open Online Course (University of Michigan)",
         "degree":"Python for Everybody",
-        "graduated":"Oct 2020",
+        "graduated":"Oct 2021",
         "description":"I learned about python data structures, python data visualization and an Introduction to creating machine learning models using python."
       }
     ],
     "work":[
       {
-        "company":"Github",
+        "company":"Inriver Philippines",
+        "title":"Backend Software Developer",
+        "years":"Apr 11, 2022 - Present",
+        "description":"Backend software maintenance task."
+      },
+      {
+        "company":"Personal Project on Github",
         "title":"MERN ",
-        "years":"Nov 2020",
-        "description":"Create a project MERN web app."
+        "years":"Nov 2021",
+        "description":"Created a project MERN web app."
       },
       {
         "company":"CRMC",
@@ -62,9 +68,9 @@
       }, 
       {
         "company":"Atyab Co. Ltd",
-        "title":"Cashier",
+        "title":"Restaurant Supervisor",
         "years":"June 2012",
-        "description":"Cashier work, invertory, product orders etc."
+        "description":"Restaurant operations, Invertory, product orders, customer complaints etc."
       }
     ],
     "skills":[
@@ -101,14 +107,14 @@
   },
   "portfolio":{
     "projects": [
+			{
+				"title": "Dog-Breed-Classifier using Tensorflow",
+				"category": "Machine Learning",
+				"image": "dog-breed-classifier.png",
+				"url": "https://github.com/salahoddin/dog-breed-classifier"
+			},
       {
-        "title":"Dhenshop Ecommerce",
-        "category":"Electronics Ecommerce",
-        "image":"dhenshop.png",
-        "url":"https://dhenshop.herokuapp.com/"
-      },
-      {
-        "title":"Portfolio",
+        "title":"Portfolio Site",
         "category":"My Porfolio",
         "image":"portfo.png",
         "url":"https://dhenportfo.herokuapp.com/"
